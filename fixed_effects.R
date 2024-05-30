@@ -121,7 +121,7 @@ summary(model_fe_4)
 ## My adjusted R-squared is negative, indicating a bad model. F-statistic is not valid. 
 ## However, the dummy variable is persist in being significant. 
 ## I have to try other methodologies. 
-## Non=parametric methodologies? Adding more controls?
+## Non-parametric methodologies? Adding more controls?
 
 # Let's try with other methodology ----------------------------------------
 
